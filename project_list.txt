@@ -4,13 +4,13 @@ https://desk.drshajimri.com
 Yii-based web application: responsible for active maintenance and ongoing enhancements.
 
 https://www.gteceducation.com
-Laravel website; implemented a custom global fuzzy-search dashboard integration.
+Laravel website: implemented a custom global fuzzy-search dashboard integration.
 
 https://www.addprintrubberstamps.com.au
-Yii web application; handling active maintenance and updates.
+Yii web application: handling active maintenance and updates.
 
 https://www.alphonsatsy.com
-Laravel website; developed the admin dashboard and managed site configuration.
+Laravel website: developed the admin dashboard and managed site configuration.
 
 https://www.crescentbuilders.com
 Laravel + Next.js website; worked on the dashboard, API development, and configuration.
