@@ -1,1 +1,27 @@
-hi testing
+Projects I Worked On and My Contributions
+
+https://desk.drshajimri.com
+Yii-based web application: responsible for active maintenance and ongoing enhancements.
+
+https://www.gteceducation.com
+Laravel website; implemented a custom global fuzzy-search dashboard integration.
+
+https://www.addprintrubberstamps.com.au
+Yii web application; handling active maintenance and updates.
+
+https://www.alphonsatsy.com
+Laravel website; developed the admin dashboard and managed site configuration.
+
+https://www.crescentbuilders.com
+Laravel + Next.js website; worked on the dashboard, API development, and configuration.
+
+https://www.impexappliances.in
+Laravel + Next.js website; developed dashboards and configured APIs.
+
+https://www.stamps.net.au
+Laravel web application; responsible for active maintenance and feature updates.
+
+
+Additional Work:
+
+Contributed to 250+ websites and softwares over the past four years, including development, security, customization, maintenance, and performance improvements across Laravel, Yii, and Next.js ecosystems.
